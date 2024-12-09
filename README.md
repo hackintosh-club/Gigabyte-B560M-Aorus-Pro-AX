@@ -1,6 +1,6 @@
 ## Gigabyte B560M Aorus Pro AX Hackintosh OpenCore EFI
 
-![image](ScreenShot/JINGYUEB760I.png)
+![image](ScreenShot/GAB560M.jpg)
 
 ### [简体中文](README.zh_CN.md)
 

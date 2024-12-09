@@ -1,6 +1,6 @@
 ## 技嘉 B560M Aorus Pro AX 黑苹果 OpenCore EFI
 
-![image](ScreenShot/JINGYUEB760I.png)
+![image](ScreenShot/GAB560M.jpg)
 
 ### [ENGLISH](https://github.com/hackintosh-club/JINGYUE-B760I-SNOW-DREAM-OpenCore)
 
